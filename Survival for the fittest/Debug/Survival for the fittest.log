@@ -1,0 +1,45 @@
+﻿Build started 21-May-16 7:01:59 PM.
+     1>Project "E:\Visual Stdio\Survival for the fittest\Survival for the fittest\Survival for the fittest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Survival for the fittest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\VS 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\igraphics.h(105): warning C4101: 'k' : unreferenced local variable
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(653): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(656): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(662): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2077): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2078): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2143): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2227): warning C4551: function call missing argument list
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2395): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2793): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\visual stdio\survival for the fittest\survival for the fittest\imain.cpp(2794): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs 2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+       Link:
+         d:\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Stdio\Survival for the fittest\Debug\Survival for the fittest.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Survival for the fittest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Visual Stdio\Survival for the fittest\Debug\Survival for the fittest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Stdio\Survival for the fittest\Debug\Survival for the fittest.lib" /MACHINE:X86 Debug\iMain.obj
+         LINK : E:\Visual Stdio\Survival for the fittest\Debug\Survival for the fittest.exe not found or not built by the last incremental link; performing full link
+         Survival for the fittest.vcxproj -> E:\Visual Stdio\Survival for the fittest\Debug\Survival for the fittest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Visual Stdio\Survival for the fittest\Debug\Survival for the fittest.exe;#1" /manifest "Debug\Survival for the fittest.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Survival for the fittest.unsuccessfulbuild".
+         Touching "Debug\Survival for the fittest.lastbuildstate".
+     1>Done Building Project "E:\Visual Stdio\Survival for the fittest\Survival for the fittest\Survival for the fittest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.85
